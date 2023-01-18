@@ -7,7 +7,7 @@ function Resume() {
       <div className="hidden lg:col-span-2 lg:inline">
         <Informacion />
       </div>
-      <div className="dark:bg-[#1A1A1A] shadow-lg lg:bg-[#fffcf2]  lg:rounded-3xl px-4 pb-8 lg:col-span-4">
+      <div className="lg:dark:bg-[#1A1A1A] dark:bg-[#121212] shadow-lg lg:bg-[#fffcf2]  lg:rounded-3xl px-4 pb-8 lg:col-span-4">
         <h1 className="text-[40px] mt-10 dark:text-white font-bold lg:hidden">Resume</h1>
         <div className="lg:flex items-center hidden">
             <h1 className="text-[40px] dark:text-white px-1 font-bold mr-3 ">

@@ -6,7 +6,7 @@ function Contact() {
       <div className="hidden lg:col-span-2 lg:inline">
         <Informacion />
       </div>
-      <div className="pb-8 lg:bg-[#fffcf2] shadow-lg dark:shadow-none px-2 rounded-3xl lg:dark:bg-[#1A1A1A] lg:col-span-4 ">
+      <div className="pb-8 lg:bg-[#fffcf2] lg:shadow-lg dark:shadow-none px-2 rounded-3xl lg:dark:bg-[#1A1A1A] lg:col-span-4 ">
         <h1 className="text-[40px] dark:text-white mt-10 font-bold lg:hidden">
           Contact{" "}
         </h1>

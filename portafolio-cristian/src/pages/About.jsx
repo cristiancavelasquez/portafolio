@@ -9,7 +9,7 @@ function About() {
       </h1>
       <div className=" lg:grid lg:grid-cols-6 lg:mt-12 gap-10">
         <Informacion />
-        <div className="lg:bg-[#fffcf2] shadow-xl rounded-3xl lg:col-span-4 lg:dark:bg-[#1A1A1A] lg:rounded-3xl ">
+        <div className="lg:bg-[#fffcf2] dark:bg-[#121212] shadow-none dark:bg-none dark:shadow-none lg:shadow-xl rounded-3xl lg:col-span-4 lg:dark:bg-[#1A1A1A] lg:rounded-3xl ">
           <div className="lg:flex items-center hidden">
             <h1 className="text-[40px] dark:text-[#FBFCFF] font-bold px-5 mr-3 ">
               About Me
